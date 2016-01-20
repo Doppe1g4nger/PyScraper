@@ -1,0 +1,4 @@
+http://www-personal.umich.edu/~jlawler/wordlist.html
+http://www-01.sil.org/linguistics/wordlists/english/
+http://www.ranks.nl/stopwords
+http://www.wordle.net/
